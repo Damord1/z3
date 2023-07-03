@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Produkty>
+	<Kategoria Nazwa="Jazz" Opis="Rodzaj improwizowanej muzyki powstałej w USA">
+		<PodKategoria Nazwa="Louis Armstrong" Opis="amerykański trębacz i wokalista jazzowy" DataUrodzenia="1901">
+			<Dzieło>
+				<Tytuł>What A Wonderful World</Tytuł>
+				<DataWydania>1967</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Hello, Dolly!</Tytuł>
+				<DataWydania>1964</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>La Vie en Rose</Tytuł>
+				<DataWydania>1950</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Miles Davis" Opis="amerykański trębacz i wokalista jazzowy" DataUrodzenia="1926">
+			<Dzieło>
+				<Tytuł>So What</Tytuł>
+				<DataWydania>1959</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Kind of Blue</Tytuł>
+				<DataWydania>1959</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Blue in Green</Tytuł>
+				<DataWydania>1959</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Billie Holiday" Opis="amerykańska wokalistka jazzowa" DataUrodzenia="1915">
+			<Dzieło>
+				<Tytuł>Strange Fruit</Tytuł>
+				<DataWydania>1939</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>God Bless the Child</Tytuł>
+				<DataWydania>1941</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Summertime</Tytuł>
+				<DataWydania>1936</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+	</Kategoria>
+	<Kategoria Nazwa="Rock" Opis="Gatunek muzyki popularnej, powstały w latach 50. XX wieku">
+		<PodKategoria Nazwa="Ozzy Osbourne" Opis="Brytyjski wokalista rockowy" DataUrodzenia="1948">
+			<Dzieło>
+				<Tytuł>Crazy Train</Tytuł>
+				<DataWydania>1980</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Mr. Crowley</Tytuł>
+				<DataWydania>1980</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Bark at the Moon</Tytuł>
+				<DataWydania>1983</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Led Zeppelin" Opis="Brytyjski zespół rockowy" DataUrodzenia="1968">
+			<Dzieło>
+				<Tytuł>Stairway to Heaven</Tytuł>
+				<DataWydania>1971</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Whole Lotta Love</Tytuł>
+				<DataWydania>1969</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Black Dog</Tytuł>
+				<DataWydania>1971</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Queen" Opis="Brytyjski zespół rockowy" DataUrodzenia="1970">
+			<Dzieło>
+				<Tytuł>Bohemian Rhapsody</Tytuł>
+				<DataWydania>1975</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>We Will Rock You</Tytuł>
+				<DataWydania>1977</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Another One Bites the Dust</Tytuł>
+				<DataWydania>1980</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+	</Kategoria>
+	<Kategoria Nazwa="Pop" Opis="Gatunek muzyki popularnej">
+		<PodKategoria Nazwa="Michael Jackson" Opis="Amerykański wokalista popowy" DataUrodzenia="1958">
+			<Dzieło>
+				<Tytuł>Billie Jean</Tytuł>
+				<DataWydania>1982</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Thriller</Tytuł>
+				<DataWydania>1982</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Beat It</Tytuł>
+				<DataWydania>1982</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Madonna" Opis="Amerykańska wokalistka popowa" DataUrodzenia="1958">
+			<Dzieło>
+				<Tytuł>Like a Prayer</Tytuł>
+				<DataWydania>1989</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Material Girl</Tytuł>
+				<DataWydania>1985</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Vogue</Tytuł>
+				<DataWydania>1990</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+		<PodKategoria Nazwa="Taylor Swift" Opis="Amerykańska wokalistka popowa" DataUrodzenia="1989">
+			<Dzieło>
+				<Tytuł>Love Story</Tytuł>
+				<DataWydania>2008</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Blank Space</Tytuł>
+				<DataWydania>2014</DataWydania>
+			</Dzieło>
+			<Dzieło>
+				<Tytuł>Shake It Off</Tytuł>
+				<DataWydania>2014</DataWydania>
+			</Dzieło>
+		</PodKategoria>
+	</Kategoria>
+</Produkty>

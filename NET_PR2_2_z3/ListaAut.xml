@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListaAut>
+	<Kategoria Nazwa="Osobowy" Opis="Rodzaj samochodów przeznaczonych do przewozu osób">
+		<PodKategoria Nazwa="Mercedes" Opis="Niemiecka marka samochodów luksusowych">
+			<Nazwa>
+				<Model>W222</Model>
+				<DataProdukcji>2013–2020</DataProdukcji>
+				<PojemnośćSilnika>2,1–6,0L.</PojemnośćSilnika>
+				<MocSilnika>231–630 KM</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>W213</Model>
+				<DataProdukcji>2016–teraz</DataProdukcji>
+				<PojemnośćSilnika>1.6-3.5L.</PojemnośćSilnika>
+				<MocSilnika>156-340KM</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>C-Class</Model>
+				<DataProdukcji>2023-07-03</DataProdukcji>
+				<PojemnośćSilnika>1.6L</PojemnośćSilnika>
+				<MocSilnika>170 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="BMW" Opis="Niemiecka marka samochodów luksusowych i sportowych">
+			<Nazwa>
+				<Model>5 Series</Model>
+				<DataProdukcji>2023-07-04</DataProdukcji>
+				<PojemnośćSilnika>2.0L</PojemnośćSilnika>
+				<MocSilnika>248 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>3 Series</Model>
+				<DataProdukcji>2023-07-05</DataProdukcji>
+				<PojemnośćSilnika>1.8L</PojemnośćSilnika>
+				<MocSilnika>181 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>X5</Model>
+				<DataProdukcji>2023-07-06</DataProdukcji>
+				<PojemnośćSilnika>3.0L</PojemnośćSilnika>
+				<MocSilnika>335 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="Audi" Opis="Niemiecka marka samochodów luksusowych">
+			<Nazwa>
+				<Model>A8</Model>
+				<DataProdukcji>2023-07-07</DataProdukcji>
+				<PojemnośćSilnika>3.0L</PojemnośćSilnika>
+				<MocSilnika>335 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>A6</Model>
+				<DataProdukcji>2023-07-08</DataProdukcji>
+				<PojemnośćSilnika>2.0L</PojemnośćSilnika>
+				<MocSilnika>248 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>A4</Model>
+				<DataProdukcji>2023-07-09</DataProdukcji>
+				<PojemnośćSilnika>1.8L</PojemnośćSilnika>
+				<MocSilnika>181 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+	</Kategoria>
+	<Kategoria Nazwa="Sportowy" Opis="Rodzaj samochodów o wysokich osiągach">
+		<PodKategoria Nazwa="Ferrari" Opis="Włoska marka samochodów sportowych">
+			<Nazwa>
+				<Model>LaFerrari</Model>
+				<DataProdukcji>2013-07-10</DataProdukcji>
+				<PojemnośćSilnika>6.3L</PojemnośćSilnika>
+				<MocSilnika>949 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>488 GTB</Model>
+				<DataProdukcji>2015-07-11</DataProdukcji>
+				<PojemnośćSilnika>3.9L</PojemnośćSilnika>
+				<MocSilnika>661 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>F8 Tributo</Model>
+				<DataProdukcji>2019-07-12</DataProdukcji>
+				<PojemnośćSilnika>3.9L</PojemnośćSilnika>
+				<MocSilnika>710 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="Lamborghini" Opis="Włoska marka samochodów sportowych">
+			<Nazwa>
+				<Model>Aventador</Model>
+				<DataProdukcji>2011-07-13</DataProdukcji>
+				<PojemnośćSilnika>6.5L</PojemnośćSilnika>
+				<MocSilnika>730 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Huracán</Model>
+				<DataProdukcji>2014-07-14</DataProdukcji>
+				<PojemnośćSilnika>5.2L</PojemnośćSilnika>
+				<MocSilnika>602 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Urus</Model>
+				<DataProdukcji>2017-07-15</DataProdukcji>
+				<PojemnośćSilnika>4.0L</PojemnośćSilnika>
+				<MocSilnika>641 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="Porsche" Opis="Niemiecka marka samochodów sportowych">
+			<Nazwa>
+				<Model>911</Model>
+				<DataProdukcji>1963-07-16</DataProdukcji>
+				<PojemnośćSilnika>3.0L</PojemnośćSilnika>
+				<MocSilnika>443 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Cayman</Model>
+				<DataProdukcji>2005-07-17</DataProdukcji>
+				<PojemnośćSilnika>2.0L</PojemnośćSilnika>
+				<MocSilnika>296 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Panamera</Model>
+				<DataProdukcji>2009-07-18</DataProdukcji>
+				<PojemnośćSilnika>3.0L</PojemnośćSilnika>
+				<MocSilnika>325 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+	</Kategoria>
+	<Kategoria Nazwa="Terenowy" Opis="Rodzaj samochodów przystosowanych do jazdy w trudnym terenie">
+		<PodKategoria Nazwa="Jeep" Opis="Amerykańska marka samochodów terenowych">
+			<Nazwa>
+				<Model>Wrangler</Model>
+				<DataProdukcji>1986-07-19</DataProdukcji>
+				<PojemnośćSilnika>3.6L</PojemnośćSilnika>
+				<MocSilnika>285 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Cherokee</Model>
+				<DataProdukcji>1974-07-20</DataProdukcji>
+				<PojemnośćSilnika>2.4L</PojemnośćSilnika>
+				<MocSilnika>180 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Grand Cherokee</Model>
+				<DataProdukcji>1992-07-21</DataProdukcji>
+				<PojemnośćSilnika>3.6L</PojemnośćSilnika>
+				<MocSilnika>295 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="Land Rover" Opis="Brytyjska marka samochodów terenowych">
+			<Nazwa>
+				<Model>Range Rover</Model>
+				<DataProdukcji>1970-07-22</DataProdukcji>
+				<PojemnośćSilnika>5.0L</PojemnośćSilnika>
+				<MocSilnika>518 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Discovery</Model>
+				<DataProdukcji>1989-07-23</DataProdukcji>
+				<PojemnośćSilnika>2.0L</PojemnośćSilnika>
+				<MocSilnika>296 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Defender</Model>
+				<DataProdukcji>1983-07-24</DataProdukcji>
+				<PojemnośćSilnika>2.0L</PojemnośćSilnika>
+				<MocSilnika>296 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+		<PodKategoria Nazwa="Toyota" Opis="Japońska marka samochodów terenowych">
+			<Nazwa>
+				<Model>Land Cruiser</Model>
+				<DataProdukcji>1951-07-25</DataProdukcji>
+				<PojemnośćSilnika>5.7L</PojemnośćSilnika>
+				<MocSilnika>381 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>4Runner</Model>
+				<DataProdukcji>1984-07-26</DataProdukcji>
+				<PojemnośćSilnika>4.0L</PojemnośćSilnika>
+				<MocSilnika>270 HP</MocSilnika>
+			</Nazwa>
+			<Nazwa>
+				<Model>Tacoma</Model>
+				<DataProdukcji>1995-07-27</DataProdukcji>
+				<PojemnośćSilnika>3.5L</PojemnośćSilnika>
+				<MocSilnika>278 HP</MocSilnika>
+			</Nazwa>
+		</PodKategoria>
+	</Kategoria>
+</ListaAut>

@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0160: Konwertuj do zakresu bloku elementu namespace
+dotnet_diagnostic.IDE0160.severity = none
